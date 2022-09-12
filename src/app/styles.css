@@ -1,0 +1,14 @@
+.addBtnFloat {
+    position: fixed !important;
+    right: 2vw;
+    bottom: 10vh;
+    z-index: 5;
+}
+.addBtnFloat:hover {
+    color: #b68d40 !important;
+}
+
+button {
+    color: red;
+    background-color: aqua !important;
+}
